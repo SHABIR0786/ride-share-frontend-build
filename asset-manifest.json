@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fb40400.chunk.css",
+    "main.js": "/static/js/main.21071f1b.chunk.js",
+    "main.js.map": "/static/js/main.21071f1b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58bf50b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58bf50b9.js.map",
+    "static/css/2.c6a43f9f.chunk.css": "/static/css/2.c6a43f9f.chunk.css",
+    "static/js/2.d2b6e6c5.chunk.js": "/static/js/2.d2b6e6c5.chunk.js",
+    "static/js/2.d2b6e6c5.chunk.js.map": "/static/js/2.d2b6e6c5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c6a43f9f.chunk.css.map": "/static/css/2.c6a43f9f.chunk.css.map",
+    "static/css/main.2fb40400.chunk.css.map": "/static/css/main.2fb40400.chunk.css.map",
+    "static/js/2.d2b6e6c5.chunk.js.LICENSE.txt": "/static/js/2.d2b6e6c5.chunk.js.LICENSE.txt",
+    "static/media/Lato-Black.f03c3fca.ttf": "/static/media/Lato-Black.f03c3fca.ttf",
+    "static/media/App.scss": "/static/media/Lato-Regular.80c07943.ttf",
+    "static/media/login.scss": "/static/media/Private City Tour_Slider 2 1.88dbd272.png",
+    "static/media/Untitled-2.9cfd8fcd.png": "/static/media/Untitled-2.9cfd8fcd.png",
+    "static/media/dashboard.scss": "/static/media/background.95ce5749.png",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58bf50b9.js",
+    "static/css/2.c6a43f9f.chunk.css",
+    "static/js/2.d2b6e6c5.chunk.js",
+    "static/css/main.2fb40400.chunk.css",
+    "static/js/main.21071f1b.chunk.js"
+  ]
+}
